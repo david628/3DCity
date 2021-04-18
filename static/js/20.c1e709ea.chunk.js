@@ -1,2 +1,0 @@
-(this["webpackJsonpfar-seer"]=this["webpackJsonpfar-seer"]||[]).push([[20],{275:function(t,e,a){"use strict";a.r(e),e.default={height:300,opacity:.5,color:"#DD3217",outlineColor:"#ffa108",outlineOpacity:1,effect:!1,dataSource:"3DCity/data/china.json"}}}]);
-//# sourceMappingURL=20.c1e709ea.chunk.js.map

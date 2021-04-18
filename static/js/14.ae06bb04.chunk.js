@@ -1,2 +1,0 @@
-(this["webpackJsonpfar-seer"]=this["webpackJsonpfar-seer"]||[]).push([[14],{269:function(e,t,s){"use strict";s.r(t),t.default={height:100,topImg:"",topColor:"#4d7384",topOpacity:1,sideImg:"",sideColor:"#66a3ee",sideOpacity:1,effect:!1,dataSource:"/data/building.json"}}}]);
-//# sourceMappingURL=14.ae06bb04.chunk.js.map
