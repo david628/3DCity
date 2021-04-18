@@ -1,0 +1,2 @@
+(this["webpackJsonpfar-seer"]=this["webpackJsonpfar-seer"]||[]).push([[9],{222:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return s}));var r=t(19),c=t(20),u=t(21),a=t(22),o=t(0),i=t.n(o),s=(t(267),function(e){Object(u.a)(t,e);var n=Object(a.a)(t);function t(e){return Object(r.a)(this,t),n.call(this,e)}return Object(c.a)(t,[{key:"componentDidMount",value:function(){}},{key:"render",value:function(){return i.a.createElement("h1",null,"ScreenPage")}}]),t}(o.Component))},267:function(e,n,t){}}]);
+//# sourceMappingURL=9.fafcf9ce.chunk.js.map

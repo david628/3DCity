@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/EditorPage/MapPanel/config.js"],"names":["url"],"mappings":"6GAAA,OAAe,WACXA,IAAK","file":"static/js/18.6715a106.chunk.js","sourcesContent":["export default {\r\n    url: 'http://map.geoq.cn/ArcGIS/rest/services/ChinaOnlineStreetPurplishBlue/MapServer/tile/{z}/{y}/{x}'\r\n};"],"sourceRoot":""}
