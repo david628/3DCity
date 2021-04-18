@@ -1,0 +1,2 @@
+(this["webpackJsonpfar-seer"]=this["webpackJsonpfar-seer"]||[]).push([[19],{274:function(e,i,a){"use strict";a.r(i),i.default={img:"images/point/1.png",color:"#00ff00",opacity:1,size:300,lineColor:"#ffffff",lineOpacity:1,dataSource:"data/point.json"}}}]);
+//# sourceMappingURL=19.196a84e7.chunk.js.map
