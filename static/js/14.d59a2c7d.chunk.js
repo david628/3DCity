@@ -1,0 +1,2 @@
+(this["webpackJsonpfar-seer"]=this["webpackJsonpfar-seer"]||[]).push([[14],{269:function(e,t,i){"use strict";i.r(t),t.default={height:100,topImg:"",topColor:"#4d7384",topOpacity:1,sideImg:"",sideColor:"#66a3ee",sideOpacity:1,effect:!1,dataSource:"3DCity/data/building.json"}}}]);
+//# sourceMappingURL=14.d59a2c7d.chunk.js.map

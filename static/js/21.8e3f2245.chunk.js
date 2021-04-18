@@ -1,0 +1,2 @@
+(this["webpackJsonpfar-seer"]=this["webpackJsonpfar-seer"]||[]).push([[21],{276:function(e,t,s){"use strict";s.r(t),t.default={height:0,color:"#FF9400",opacity:1,speed:.01,dataSource:"3DCity/data/point.json"}}}]);
+//# sourceMappingURL=21.8e3f2245.chunk.js.map
