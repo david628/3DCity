@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFwKOoXDmT3wTI5PGKmj3AeF';
+    src: url('./SFwKOoXDmT3wTI5PGKmj3AeF.eot');
+    src: url('./SFwKOoXDmT3wTI5PGKmj3AeF.eot') format('embedded-opentype'),
+         url('./SFwKOoXDmT3wTI5PGKmj3AeF.woff2') format('woff2'),
+         url('./SFwKOoXDmT3wTI5PGKmj3AeF.woff') format('woff'),
+         url('./SFwKOoXDmT3wTI5PGKmj3AeF.ttf') format('truetype'),
+         url('./SFwKOoXDmT3wTI5PGKmj3AeF.svg#SFwKOoXDmT3wTI5PGKmj3AeF') format('svg');
+}

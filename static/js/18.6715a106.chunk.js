@@ -1,2 +1,0 @@
-(this["webpackJsonpfar-seer"]=this["webpackJsonpfar-seer"]||[]).push([[18],{273:function(e,r,s){"use strict";s.r(r),r.default={url:"http://map.geoq.cn/ArcGIS/rest/services/ChinaOnlineStreetPurplishBlue/MapServer/tile/{z}/{y}/{x}"}}}]);
-//# sourceMappingURL=18.6715a106.chunk.js.map
